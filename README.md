@@ -21,6 +21,10 @@ Challenge for week 19 module for UPenn LPS Full Stack Coding Bootcamp. This is a
 ## Usage
 This is deployed to Heroku so you can test it out without having to install it yourself.
 
+[Heroku](https://pacific-ocean-53948-8af34012f07a.herokuapp.com)
+![Screenshot 2023-10-18 030537](https://github.com/BLam1226/Web-Text-Editor/assets/127125695/4f69b2bf-e1c0-4362-bd29-ea921c862cdd)
+![Screenshot 2023-10-18 030612](https://github.com/BLam1226/Web-Text-Editor/assets/127125695/2ef1f180-cf1b-4c76-9a37-bfcce68971a2)
+
 ## Contributing
 N/A
 
